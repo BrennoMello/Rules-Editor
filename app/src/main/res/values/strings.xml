@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rules Editor</string>
+    <string-array name="sensorArray">
+        <item>Temperature</item>
+        <item>Humidity</item>
+    </string-array>
+
+    <string-array name="spinnerItems">
+        <item> &gt; </item>
+        <item> >= </item>
+        <item> &lt; </item>
+        <item> &lt;= </item>
+        <item> == </item>
+        <item> != </item>
+
+    </string-array>
+</resources>
